@@ -1,0 +1,17 @@
+﻿  Scene_Play.cpp
+C:\Users\Jay\source\repos\2DPlatformer\include\Components.h(71,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\include\Components.h(71,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\src\Scene_Play.cpp(64,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\src\Scene_Play.cpp(65,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\src\Scene_Play.cpp(68,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\src\Scene_Play.cpp(67,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\src\Scene_Play.cpp(339,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\src\Scene_Play.cpp(531,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\src\Scene_Play.cpp(536,48): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\include\Entity.h(47,46): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Jay\source\repos\2DPlatformer\include\Entity.h(47,46): warning C4244:         with
+C:\Users\Jay\source\repos\2DPlatformer\include\Entity.h(47,46): warning C4244:         [
+C:\Users\Jay\source\repos\2DPlatformer\include\Entity.h(47,46): warning C4244:             _Ty=int
+C:\Users\Jay\source\repos\2DPlatformer\include\Entity.h(47,46): warning C4244:         ]
+C:\Users\Jay\source\repos\2DPlatformer\include\Entity.h(47,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  2DPlatformer.vcxproj -> C:\Users\Jay\source\repos\2DPlatformer\x64\Debug\2DPlatformer.exe
